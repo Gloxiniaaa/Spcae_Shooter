@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    },
+    "makefile.makePath": "make",
+    "C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/g++.exe"
+}
